@@ -32,7 +32,7 @@ education:
     institution: Department of Automation, University of Science and Technology of China (USTC)
     year: 2014-2019
   - course: BSc in Automation
-    institution: University of Science and Technology of China (USTC)
+    institution: School of Information Science and Technology, University of Science and Technology of China (USTC)
     year: 2010-2014
 
 # Social/Academic Networking
@@ -43,15 +43,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+- icon: researchgate
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Yunlong_Wang14?ev=hdr_xprf
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3535-308X
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/yunlong-wang13/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/wylcasia
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
