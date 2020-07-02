@@ -90,7 +90,7 @@ address = {street = "No.95 ZhongGuanCun East Street, HaiDian District", city = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.9791", longitude = "116.3334"}
+coordinates = {latitude = "39.9846", longitude = "116.3390"}
 
 # Directions for visitors to locate you.
 directions = "15th floor of Intelligent Building"
@@ -256,9 +256,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
-  zoom = 15
+  engine = 0
+  # api_key = ""
+  # zoom = 15
 
 ############################
 ## Marketing

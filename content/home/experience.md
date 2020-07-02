@@ -24,9 +24,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2019-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
+  description = """  
   * Research on Advanced Theory and Algorithms For Biometrics Recognition
   * Develop Smart Iris Recognition Systems
   * Produce Light Field Imaging Devices

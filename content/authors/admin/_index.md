@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Institute of Automation, Chinese Academy of Sciences (CASIA) 
-  url: "http://cripac.ia.ac.cn/CN/column/item165.shtml"
+  url: "http://www.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Yunlong Wang is currently an Assistant Professor with [Center for Research on Intelligent Perception and Computing (CRIPAC)](http://www.cripac.ia.ac.cn/CN/model/index.htm), [National Laboratory of Pattern Recognition (NLPR)](http://www.nlpr.ia.ac.cn ), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) , China. He received the B.E. degree and the Ph.D. degree in [Department of Automation](https://auto.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/). His research focuses on pattern recognition, machine learning, light field photography and biometrics.
@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Pattern Recognition and Intelligent System, Control Sciences
+  - course: PhD in Pattern Recognition and Intelligent System, Control Science and Engineering
     institution: Department of Automation, University of Science and Technology of China (USTC)
-    year: 2014-2019
+    year: 2014.09-2019.07
   - course: BSc in Automation
     institution: School of Information Science and Technology, University of Science and Technology of China (USTC)
-    year: 2010-2014
+    year: 2010.08-2014.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yunlong.wang@cripac.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
