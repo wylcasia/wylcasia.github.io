@@ -5,7 +5,6 @@
     <link>https://example.com/about/</link>
     <description>Recent content in about on Yunlong Wang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2020 17:51:47 +0330</lastBuildDate><atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yunlong Wang</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Yunlong Wang</description>
+    <title>Causal Inference on Yunlong Wang</title>
+    <link>https://example.com/tags/causal-inference/</link>
+    <description>Recent content in Causal Inference on Yunlong Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/causal-inference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIR 2022 | 反者道之动, 基于因果推断的可解释对抗防御</title>
       <link>https://example.com/blog/blog3/</link>
@@ -18,27 +18,6 @@
 收录期刊：Machine Intelligence Research (MIR)
 论文DOI：10.1007/s11633-022-1330-7
 【源头活水】MIR 2022 | 反者道之动, 基于因果推断的可解释对抗防御</description>
-    </item>
-    
-    <item>
-      <title>MIT人工智能实验室：如何做研究？</title>
-      <link>https://example.com/blog/blog2/</link>
-      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/blog/blog2/</guid>
-      <description>英文原址
-中文译稿</description>
-    </item>
-    
-    <item>
-      <title>This is my new homepage in English.</title>
-      <link>https://example.com/blog/blog1/</link>
-      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/blog/blog1/</guid>
-      <description>Find more information about me via the following links.
-My Chinese homepage
-Our group</description>
     </item>
     
   </channel>
