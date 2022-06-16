@@ -6,7 +6,43 @@
     <description>Recent content in Tags on Yunlong Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attributes Skew</title>
+      <link>https://example.com/tags/attributes-skew/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/attributes-skew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity Transferring</title>
+      <link>https://example.com/tags/diversity-transferring/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/diversity-transferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning</title>
+      <link>https://example.com/tags/federated-learning/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariant Aggregation</title>
+      <link>https://example.com/tags/invariant-aggregation/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/invariant-aggregation/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Adversarial Attacks</title>
       <link>https://example.com/tags/adversarial-attacks/</link>

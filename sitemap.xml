@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/tags/adversarial-attacks/</loc>
-    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/attributes-skew/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/blog/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/diversity-transferring/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/federated-learning/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/blog4/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/invariant-aggregation/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/adversarial-attacks/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/causal-inference/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/blog/blog3/</loc>
-    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2022-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/</loc>
     <lastmod>2022-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/academic-resource/</loc>
