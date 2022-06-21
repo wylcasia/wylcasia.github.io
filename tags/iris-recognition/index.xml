@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iris Recognition on Yunlong Wang</title>
+    <link>https://example.com/tags/iris-recognition/</link>
+    <description>Recent content in Iris Recognition on Yunlong Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/iris-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IEEE TIFS 2022 | 基于不确定因素感知的鲁棒虹膜识别</title>
+      <link>https://example.com/blog/blog5/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/blog5/</guid>
+      <description>Towards more discriminative and robust iris recognition by learning uncertainty factors 作者信息：
+卫建泽（中国科学院大学，中科院自动化所），黄怀波（中科院自动化所），王云龙（中科院自动化所），赫然（中科院自动化所），孙哲南（中科院自动化所）
+收录期刊：
+IEEE Transactions on Information Forensics and Security (IEEE TIFS)
+论文DOI:
+https://ieeexplore.ieee.org/abstract/document/9722888/ (10.1109/TIFS.2022.3154240)
+代码链接：
+https://github.com/reborn20200813/uncertainty
+人工智能前沿讲习公众号：【源头活水】IEEE TIFS 2022 | 基于不确定因素感知的鲁棒虹膜识别</description>
+    </item>
+    
+  </channel>
+</rss>
