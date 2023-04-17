@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iris Recognition on Yunlong Wang</title>
+    <title>iris recognition on Yunlong Wang</title>
     <link>https://example.com/tags/iris-recognition/</link>
-    <description>Recent content in Iris Recognition on Yunlong Wang</description>
+    <description>Recent content in iris recognition on Yunlong Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/iris-recognition/index.xml" rel="self" type="application/rss+xml" />
@@ -65,6 +65,16 @@ https://ieeexplore.ieee.org/abstract/document/9722888/ (10.1109/TIFS.2022.315424
 代码链接：
 https://github.com/reborn20200813/uncertainty
 人工智能前沿讲习公众号：【源头活水】IEEE TIFS 2022 | 基于不确定因素感知的鲁棒虹膜识别</description>
+    </item>
+    
+    <item>
+      <title>湖南卫视《新闻大求真》栏目专访|虹膜如何成功识别身份？</title>
+      <link>https://example.com/blog/blog0/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/blog0/</guid>
+      <description>2020年8月5日，中科院自动化研究所智能感知与计算研究中心助理研究员王云龙老师接受《新闻大求真》栏目采访，带你探索虹膜识别的奥秘。
+芒果TV视频链接</description>
     </item>
     
   </channel>
