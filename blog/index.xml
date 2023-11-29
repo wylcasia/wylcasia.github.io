@@ -6,7 +6,24 @@
     <description>Recent content in Blogs on Yunlong Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IEEE TPAMI 2023 | 解决遮挡生物特征识别的多尺度动态图表达框架</title>
+      <link>https://example.com/blog/blog10/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/blog10/</guid>
+      <description>Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions 作者信息：
+任民（北京师范大学），王云龙（中国科学院自动化研究所），朱宇豪（中国铁道科学研究院），张堃博（中国科学院自动化研究所），孙哲南（中国科学院自动化研究所）
+收录期刊：
+IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+论文DOI:
+https://ieeexplore.ieee.org/document/10193782
+代码链接：
+https://github.com/RenMin1991/Dyamic-Graph-Representation
+中国图象图形学学会CSIG：【速览】IEEE TPAMI 2023 | 解决遮挡生物特征识别的多尺度动态图表达框架</description>
+    </item>
+    
     <item>
       <title>IJCB 2023 Best Student Paper Award</title>
       <link>https://example.com/blog/blog9/</link>
