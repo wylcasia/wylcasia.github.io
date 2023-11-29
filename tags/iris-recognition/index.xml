@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iris recognition on Yunlong Wang</title>
+    <title>Iris Recognition on Yunlong Wang</title>
     <link>https://example.com/tags/iris-recognition/</link>
-    <description>Recent content in iris recognition on Yunlong Wang</description>
+    <description>Recent content in Iris Recognition on Yunlong Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/iris-recognition/index.xml" rel="self" type="application/rss+xml" />
@@ -22,76 +22,6 @@ https://ieeexplore.ieee.org/document/10193782
 代码链接：
 https://github.com/RenMin1991/Dyamic-Graph-Representation
 中国图象图形学学会CSIG：【速览】IEEE TPAMI 2023 | 解决遮挡生物特征识别的多尺度动态图表达框架</description>
-    </item>
-    
-    <item>
-      <title>IEEE TIFS 2022 | 基于扰动灭活的人脸对抗防御</title>
-      <link>https://example.com/blog/blog7/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/blog/blog7/</guid>
-      <description>Perturbation Inactivation Based Adversarial Defense for Face Recognition 作者信息：
-任民（北京师范大学），朱宇豪（中国铁道科学研究院），王云龙（中科院自动化所），孙哲南（中科院自动化所）
-收录期刊：
-IEEE Transactions on Information Forensics and Security (IEEE TIFS)
-论文DOI:
-https://ieeexplore.ieee.org/document/9845464/
-代码链接：
-https://github.com/RenMin1991/Perturbation-Inactivate
-中国图象图形学学会CSIG：【速览】IEEE TIFS 2022 | 基于扰动灭活的人脸对抗防御</description>
-    </item>
-    
-    <item>
-      <title>科技论文写作之PASS模型</title>
-      <link>https://example.com/blog/blog8/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/blog/blog8/</guid>
-      <description>科技论文写作之PASS模型 © 2021 Yunlong Wang (王云龙). All rights reserved.</description>
-    </item>
-    
-    <item>
-      <title>IEEE TIFS 2022 | 基于关联测度的虹膜识别</title>
-      <link>https://example.com/blog/blog6/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/blog/blog6/</guid>
-      <description>Contextual measures for iris recognition 作者信息：
-卫建泽（中科院微电子所），王云龙（中科院自动化所），黄怀波（中科院自动化所），赫然（中科院自动化所），孙哲南（中科院自动化所），高兴宇（中科院微电子所）
-收录期刊：
-IEEE Transactions on Information Forensics and Security (IEEE TIFS)
-论文DOI:
-https://ieeexplore.ieee.org/document/9947055
-代码链接：
-https://github.com/reborn20200813/Contextual-Measures
-中国图象图形学学会CSIG：【速览】IEEE TIFS 2022 | 基于关联测度的虹膜识别</description>
-    </item>
-    
-    <item>
-      <title>IEEE TIFS 2022 | 基于不确定因素感知的鲁棒虹膜识别</title>
-      <link>https://example.com/blog/blog5/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/blog/blog5/</guid>
-      <description>Towards more discriminative and robust iris recognition by learning uncertainty factors 作者信息：
-卫建泽（中国科学院大学，中科院自动化所），黄怀波（中科院自动化所），王云龙（中科院自动化所），赫然（中科院自动化所），孙哲南（中科院自动化所）
-收录期刊：
-IEEE Transactions on Information Forensics and Security (IEEE TIFS)
-论文DOI:
-https://ieeexplore.ieee.org/abstract/document/9722888/ (10.1109/TIFS.2022.3154240)
-代码链接：
-https://github.com/reborn20200813/uncertainty
-人工智能前沿讲习公众号：【源头活水】IEEE TIFS 2022 | 基于不确定因素感知的鲁棒虹膜识别</description>
-    </item>
-    
-    <item>
-      <title>湖南卫视《新闻大求真》栏目专访|虹膜如何成功识别身份？</title>
-      <link>https://example.com/blog/blog0/</link>
-      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/blog/blog0/</guid>
-      <description>2020年8月5日，中科院自动化研究所智能感知与计算研究中心助理研究员王云龙老师接受《新闻大求真》栏目采访，带你探索虹膜识别的奥秘。
-芒果TV视频链接</description>
     </item>
     
   </channel>

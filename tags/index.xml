@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>iris recognition</title>
+      <title>Iris Recognition</title>
       <link>https://example.com/tags/iris-recognition/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       
@@ -26,101 +26,83 @@
     </item>
     
     <item>
-      <title>IJCB 2023</title>
-      <link>https://example.com/tags/ijcb-2023/</link>
+      <title>Biometrics</title>
+      <link>https://example.com/tags/biometrics/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/ijcb-2023/</guid>
+      <guid>https://example.com/tags/biometrics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Uncertainty Learning</title>
-      <link>https://example.com/tags/uncertainty-learning/</link>
+      <title>Sclera</title>
+      <link>https://example.com/tags/sclera/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/sclera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academics</title>
+      <link>https://example.com/tags/academics/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/academics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iris</title>
+      <link>https://example.com/tags/iris/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/iris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty</title>
+      <link>https://example.com/tags/uncertainty/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/uncertainty-learning/</guid>
+      <guid>https://example.com/tags/uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Attributes Skew</title>
-      <link>https://example.com/tags/attributes-skew/</link>
+      <title>FederatedLearning</title>
+      <link>https://example.com/tags/federatedlearning/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/attributes-skew/</guid>
+      <guid>https://example.com/tags/federatedlearning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Diversity Transferring</title>
-      <link>https://example.com/tags/diversity-transferring/</link>
-      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/diversity-transferring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Federated Learning</title>
-      <link>https://example.com/tags/federated-learning/</link>
-      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/federated-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invariant Aggregation</title>
-      <link>https://example.com/tags/invariant-aggregation/</link>
-      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/invariant-aggregation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adversarial Attacks</title>
-      <link>https://example.com/tags/adversarial-attacks/</link>
+      <title>AdversarialAttacks</title>
+      <link>https://example.com/tags/adversarialattacks/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/adversarial-attacks/</guid>
+      <guid>https://example.com/tags/adversarialattacks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Causal Inference</title>
-      <link>https://example.com/tags/causal-inference/</link>
+      <title>CausalInference</title>
+      <link>https://example.com/tags/causalinference/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/causal-inference/</guid>
+      <guid>https://example.com/tags/causalinference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>academic resource</title>
-      <link>https://example.com/tags/academic-resource/</link>
-      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/academic-resource/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>homepage</title>
+      <title>Homepage</title>
       <link>https://example.com/tags/homepage/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/tags/homepage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>link</title>
-      <link>https://example.com/tags/link/</link>
-      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/link/</guid>
       <description></description>
     </item>
     
