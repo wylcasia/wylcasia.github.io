@@ -3,21 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/tags/biometric-recognition/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/blog/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/honor-and-prize/</loc>
+    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/blog11/</loc>
+    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/blog/blog10/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/iris-recognition/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/biometrics/</loc>
