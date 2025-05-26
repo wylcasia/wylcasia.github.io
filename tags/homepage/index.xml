@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Yunlong Wang</title>
-    <link>https://example.com/tags/homepage/</link>
+    <link>http://localhost:1313/tags/homepage/</link>
     <description>Recent content in Homepage on Yunlong Wang</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is my new homepage in English.</title>
-      <link>https://example.com/blog/blog1/</link>
+      <link>http://localhost:1313/blog/blog1/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/blog/blog1/</guid>
-      <description>Find more information about me via the following links.
-My Chinese homepage
-Our group</description>
+      <guid>http://localhost:1313/blog/blog1/</guid>
+      <description>&lt;p&gt;Find more information about me via the following links.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://cripac.ia.ac.cn/CN/column/item165.shtml&#34;&gt;My Chinese homepage&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.cripacsir.cn/&#34;&gt;Our group&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog1.jpg&#34; alt=&#34;blog1&#34; title=&#34;This photo is taken in Dongjiao Wetland Park, Beijing.&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Award on Yunlong Wang</title>
+    <link>http://localhost:1313/tags/award/</link>
+    <description>Recent content in Award on Yunlong Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/award/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our paper published on IET computer vision is very popular and downloaded frequently by scholars, AND we authors are inducted into Wiley China Excellent Author Program!</title>
+      <link>http://localhost:1313/blog/blog14/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/blog14/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/blog14_1.jpg&#34; alt=&#34;blog14_1&#34; title=&#34;Wiley中国高贡献作者奖&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog14_2.png&#34; alt=&#34;blog14_2&#34; title=&#34;IET Computer Vision论文首页&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
