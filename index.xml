@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yunlong Wang</title>
-    <link>https://example.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Yunlong Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our paper published on IET computer vision is very popular and downloaded frequently by scholars, AND we authors are inducted into Wiley China Excellent Author Program!</title>
-      <link>https://example.com/blog/blog14/</link>
+      <link>http://localhost:1313/blog/blog14/</link>
       <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog14/</guid>
+      <guid>http://localhost:1313/blog/blog14/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/blog14_1.png&#34; alt=&#34;blog14_1&#34; title=&#34;Wiley中国高贡献作者奖&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog14_2.png&#34; alt=&#34;blog14_2&#34; title=&#34;IET Computer Vision论文首页&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I got CSC scholarship and will go to study in Nanyang Technological University (NTU) for one year.</title>
-      <link>https://example.com/blog/blog13/</link>
+      <link>http://localhost:1313/blog/blog13/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog13/</guid>
+      <guid>http://localhost:1313/blog/blog13/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/blog13_1.png&#34; alt=&#34;blog13_1&#34; title=&#34;CSC贺信&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>本人参与制修订的国家和行业标准一览</title>
-      <link>https://example.com/blog/blog12/</link>
+      <link>http://localhost:1313/blog/blog12/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog12/</guid>
+      <guid>http://localhost:1313/blog/blog12/</guid>
       <description>&lt;h2 id=&#34;1-gbt-41989-2022-公共安全-虹膜识别应用-算法评测方法&#34;&gt;1. &lt;a href=&#34;https://std.samr.gov.cn/gb/search/gbDetailed?id=EB58F4DA913FB2A2E05397BE0A0A7D33&#34;&gt;GB/T 41989-2022 公共安全 虹膜识别应用 算法评测方法&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;标准类型：推荐性国家标准（GB-T）&lt;/p&gt;&#xA;&lt;p&gt;发布日期：2022-10-14&lt;/p&gt;&#xA;&lt;p&gt;实施日期：2023-05-01&lt;/p&gt;&#xA;&lt;p&gt;起草单位：&lt;strong&gt;中国科学院自动化研究所&lt;/strong&gt;、北京中科虹霸科技有限公司、天津中科虹星科技有限公司、北京邮电大学、北京眼神智能科技有限公司、天津中科智能识别有限公司、公安部第一研究所、上海芯灵科技有限公司&lt;/p&gt;&#xA;&lt;p&gt;主要完成人：&lt;strong&gt;王云龙&lt;/strong&gt; 、孙哲南 、李星光 、张慧 、李海青 、何召锋 、侯鸿川 、马力 、侯广琦 、王微 、杨春林 、刘洋 、张堃博 、薛文芳 、李文洁 、徐伟&lt;/p&gt;&#xA;&lt;p&gt;标准范围：本文件规定了公共安全虹膜识别应用中算法评测方法的测试库建库规则、测试环境、测试流程,描述了测试方法。本文件适用于公共安全虹膜识别应用中算法的评测。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-gbt-41988-2022-公共安全-虹膜识别应用-图像技术要求&#34;&gt;2. &lt;a href=&#34;https://std.samr.gov.cn/gb/search/gbDetailed?id=EB58F4DA9296B2A2E05397BE0A0A7D33&#34;&gt;GB/T 41988-2022 公共安全 虹膜识别应用 图像技术要求&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;标准类型：推荐性国家标准（GB-T）&lt;/p&gt;&#xA;&lt;p&gt;发布日期：2022-10-14&lt;/p&gt;&#xA;&lt;p&gt;实施日期：2023-05-01&lt;/p&gt;&#xA;&lt;p&gt;起草单位：天津中科虹星科技有限公司、&lt;strong&gt;中国科学院自动化研究所&lt;/strong&gt;、北京中科虹霸科技有限公司、公安部第一研究所、北京邮电大学、北京眼神智能科技有限公司、公安部第三研究所、天津中科智能识别有限公司&lt;/p&gt;&#xA;&lt;p&gt;主要完成人：李海青、侯广琦、&lt;strong&gt;王云龙&lt;/strong&gt;、孙哲南、李星光、何召锋、刘京、侯鸿川、张新会、张慧、李文洁、杨春林、刘朝朋、游寒旭、张堃博&lt;/p&gt;&#xA;&lt;p&gt;标准范围：本文件规定了公共安全虹膜识别应用中虹膜图像的技术要求。本文件适用于公共安全虹膜识别应用中虹膜图像的采集、存储与识别。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;3-gbt-41990-2022-公共安全-虹膜识别应用-采集设备&#34;&gt;3. &lt;a href=&#34;https://std.samr.gov.cn/gb/search/gbDetailed?id=EB58F4DA913FB2A2E05397BE0A0A7D33&#34;&gt;GB/T 41990-2022 公共安全 虹膜识别应用 采集设备&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;标准类型：推荐性国家标准（GB-T）&lt;/p&gt;&#xA;&lt;p&gt;发布日期：2022-10-14&lt;/p&gt;&#xA;&lt;p&gt;实施日期：2023-05-01&lt;/p&gt;&#xA;&lt;p&gt;起草单位：北京中科虹霸科技有限公司、北京邮电大学、&lt;strong&gt;中国科学院自动化研究所&lt;/strong&gt;、天津中科虹星科技有限公司、公安部第一研究所、北京眼神智能科技有限公司、公安部第三研究所、熵基科技股份有限公司、中国人民公安大学、天津中科智能识别有限公司、深圳职业技术学院&lt;/p&gt;&#xA;&lt;p&gt;主要完成人：何召锋、李星光、张慧、刘京、&lt;strong&gt;王云龙&lt;/strong&gt;、孙哲南、李海青、侯广琦、侯鸿川、戎玲、顾荣杰、吴治平、杨春林、陈书楷、林晓清、陈蕊丽、任福云、杨金锋、张堃博、王微&lt;/p&gt;&#xA;&lt;p&gt;标准范围：本文件规定了公共安全虹膜识别应用中采集设备的技术要求，描述了试验方法，确立了检验规则。本文件适用于公共安全虹膜识别应用中采集设备（以下简称“产品”）的设计、生产和检验。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;4-gbt-292685-2022-信息技术-生物特征识别性能测试和报告-第5部分访问控制场景与分级机制&#34;&gt;4. &lt;a href=&#34;https://std.samr.gov.cn/gb/search/gbDetailed?id=EB58F4DA9163B2A2E05397BE0A0A7D33&#34;&gt;GB/T 29268.5-2022 信息技术 生物特征识别性能测试和报告 第5部分：访问控制场景与分级机制&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;标准类型：推荐性国家标准（GB-T）&lt;/p&gt;&#xA;&lt;p&gt;发布日期：2022-10-12&lt;/p&gt;&#xA;&lt;p&gt;实施日期：2023-05-01&lt;/p&gt;&#xA;&lt;p&gt;起草单位：北京中科虹霸科技有限公司、中国电子技术标准化研究院、人力资源和社会保障部信息中心、&lt;strong&gt;中国科学院自动化研究所&lt;/strong&gt;、厦门市熠成信息技术有限公司、北京邮电大学、蚂蚁科技集团股份有限公司、深圳职业技术学院、广州广电运通金融电子股份有限公司、北京曙光易通技术有限公司、北京集创北方科技股份有限公司、深圳市铭图创新科技有限公司、西安凯虹电子科技有限公司、上海市计量测试技术研究院、圣点世纪科技股份有限公司 &lt;/p&gt;&#xA;&lt;p&gt;主要完成人：李星光、宋继伟、钟陈、刘京、王文峰、高健、张慧、邱显超、王智飞、&lt;strong&gt;王云龙&lt;/strong&gt;、雷震、石红岩、孔龙腾、何召锋、林冠辰、杨金锋、孙静、刘旭华、樊磊、李清顺、胥建民、孙荣荣、胡文矛&lt;/p&gt;&#xA;&lt;p&gt;标准范围：本文件定义了通用的生物特征识别访问控制场景，适用于生物特征识别身份验证系统的场景评价；提供了生物特征识别系统要求和性能级别的分级机制的量化表述；提供场景评价的通用基础，适用于特定的测试方法和特定生物特征识别系统的能达到的性能等级。本文件适用于生物特征识别系统性能测试，而不涉及详细的比对算法或潜在的使用人群的生物特征分布情况。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;5-gbt-292686-2022-信息技术-生物特征识别性能测试和报告-第6部分运行评价的测试方法&#34;&gt;5. &lt;a href=&#34;https://std.samr.gov.cn/gb/search/gbDetailed?id=EB58F4DA9164B2A2E05397BE0A0A7D33&#34;&gt;GB/T 29268.6-2022 信息技术 生物特征识别性能测试和报告 第6部分：运行评价的测试方法&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;标准类型：推荐性国家标准（GB-T）&lt;/p&gt;&#xA;&lt;p&gt;发布日期：2022-10-14&lt;/p&gt;&#xA;&lt;p&gt;实施日期：2023-05-01&lt;/p&gt;&#xA;&lt;p&gt;起草单位：北京中科虹霸科技有限公司、中国电子技术标准化研究院、&lt;strong&gt;中国科学院自动化研究所&lt;/strong&gt;、厦门市美亚柏科信息股份有限公司、深圳市迈腾电子有限公司、人力资源和社会保障部信息中心、北京邮电大学、蚂蚁科技集团股份有限公司、天津中科虹星科技有限公司、深圳职业技术学院、北京曙光易通技术有限公司、上海市计量测试技术研究院、深圳市铭图创新科技有限公司、天复（东莞）标准技术有限公司、长春鸿达光电子与生物统计识别技术有限公司、广州广电运通金融电子股份有限公司、深圳华大法医科技有限公司、深圳市优笔触控科技有限公司、深圳市华曦达科技股份有限公司&lt;/p&gt;&#xA;&lt;p&gt;主要完成人：何召锋、王文峰、宋继伟、张慧、钟陈、刘倩颖、校利虎、李星光、黄伟、王海滨、苗迪、雷震、&lt;strong&gt;王云龙&lt;/strong&gt;、王智飞、韦敏钰、张曼、林冠辰、李海青、杨金锋、张大朋、孙荣荣、王成、李清顺、王振鑫、李雪妍、张玮、高升杰、樊锋涛、李波&lt;/p&gt;&#xA;&lt;p&gt;标准范围：本文件为生物特征识别系统的运行测试提供指导；规定了运行系统的性能指标；细化了可能由运行系统保留的数据，以支持性能监控；规定了测试方法、数据记录和运行评价结果报告的要求。&lt;/p&gt;</description>
     </item>
     <item>
       <title>本人喜获2023年中国产学研合作创新与促进奖——产学研合作创新成果奖二等奖</title>
-      <link>https://example.com/blog/blog11/</link>
+      <link>http://localhost:1313/blog/blog11/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog11/</guid>
+      <guid>http://localhost:1313/blog/blog11/</guid>
       <description>&lt;h2 id=&#34;获奖项目名称多模态生物特征采集与分析技术&#34;&gt;获奖项目名称：多模态生物特征采集与分析技术&lt;/h2&gt;&#xA;&lt;p&gt;完成单位：北京邮电大学、&lt;strong&gt;中国科学院自动化研究所&lt;/strong&gt;、北京声智科技有限公司、北京中科虹霸科技有限公司、北京嘀嘀无限科技发展有限公司&lt;/p&gt;&#xA;&lt;p&gt;主要完成人：何召锋、李佩佩、项刘宇、&lt;strong&gt;王云龙&lt;/strong&gt;、邱显超、陈孝良、李琦、裴仁旺、常乐、王兴华&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog11_1.jpg&#34; alt=&#34;blog11_1&#34; title=&#34;获奖通知&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>IEEE TPAMI 2023 | 解决遮挡生物特征识别的多尺度动态图表达框架</title>
-      <link>https://example.com/blog/blog10/</link>
+      <link>http://localhost:1313/blog/blog10/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog10/</guid>
+      <guid>http://localhost:1313/blog/blog10/</guid>
       <description>&lt;h1 id=&#34;multiscale-dynamic-graph-representation-for-biometric-recognition-with-occlusions&#34;&gt;Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions&lt;/h1&gt;&#xA;&lt;p&gt;作者信息：&lt;/p&gt;&#xA;&lt;p&gt;任民（北京师范大学），王云龙（中国科学院自动化研究所），朱宇豪（中国铁道科学研究院），张堃博（中国科学院自动化研究所），孙哲南（中国科学院自动化研究所）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;/p&gt;&#xA;&lt;p&gt;IEEE Transactions on Pattern Analysis and Machine Intelligence (&lt;strong&gt;IEEE TPAMI&lt;/strong&gt;)&lt;/p&gt;&#xA;&lt;p&gt;论文DOI:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10193782&#34;&gt;https://ieeexplore.ieee.org/document/10193782&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;代码链接：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/RenMin1991/Dyamic-Graph-Representation&#34;&gt;https://github.com/RenMin1991/Dyamic-Graph-Representation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/4e3MFY6DKe5pJ1JsGV7Zwg&#34;&gt;中国图象图形学学会CSIG：【速览】IEEE TPAMI 2023 | 解决遮挡生物特征识别的多尺度动态图表达框架&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog10_1.png&#34; alt=&#34;blog10_1&#34; title=&#34;非受控场景下遮挡生物特征识别问题&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog10_2.png&#34; alt=&#34;blog10_2&#34; title=&#34;动态图表达&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog10_3.png&#34; alt=&#34;blog10_3&#34; title=&#34;多尺度动态图表达框架&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog10_4.png&#34; alt=&#34;blog10_4&#34; title=&#34;不同尺度Feature graph的有效感受野&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog10_5.png&#34; alt=&#34;blog10_5&#34; title=&#34;动态图表达框架下的人脸匹配结果&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>IJCB 2023 Best Student Paper Award</title>
-      <link>https://example.com/blog/blog9/</link>
+      <link>http://localhost:1313/blog/blog9/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog9/</guid>
+      <guid>http://localhost:1313/blog/blog9/</guid>
       <description>&lt;h1 id=&#34;our-paper-won-ijcb-2023-best-student-paper-award&#34;&gt;Our paper won IJCB 2023 Best Student Paper Award&lt;/h1&gt;&#xA;&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ijcb2023.ieee-biometrics.org/award-winners/&#34;&gt;&lt;strong&gt;Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;&#xA;&lt;p&gt;Li, Haiqing; Wang, caiyong; Zhao, Guangzhe; He, Zhaofeng; Wang, Yunlong; Sun, Zhenan&lt;/p&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Sclera segmentation is a crucial step in sclera recognition, which has been greatly advanced by Convolutional Neural Networks (CNNs). However, when dealing with non-ideal eye images, many existing CNN-based approaches are still prone to failure. One major reason is that due to the limited range of receptive fields, CNNs are difficult to effectively model global semantic relevance and thus robustly resist noise interference. To solve this problem, this paper proposes a novel two-stream hybrid model, named Sclera-TransFuse, to integrate classical ResNet-34 and recently emerging Swin Transformer encoders. Specially, the self-attentive Swin Transformer has shown a strong ability in capturing long-range spatial dependencies and has a hierarchical structure similar to CNNs. The dual encoders firstly extract coarse- and fine-grained feature representations at hierarchical stages, separately. Then a novel Cross-Domain Fusion (CDF) module based on information interaction and self-attention mechanism is introduced to efficiently fuse the multi-scale features extracted from dual encoders. Finally, the fused features are progressively upsampled and aggregated to predict the sclera masks in the decoder meanwhile deep supervision strategies are employed to learn intermediate feature representations better and faster. Experimental results show that Sclera-TransFuse achieves state-of-the-art performance on various sclera segmentation benchmarks. Additionally, a UBIRIS.v2 subset of 683 eye images with manually labeled sclera masks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IEEE TIFS 2022 | 基于扰动灭活的人脸对抗防御</title>
-      <link>https://example.com/blog/blog7/</link>
+      <link>http://localhost:1313/blog/blog7/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog7/</guid>
+      <guid>http://localhost:1313/blog/blog7/</guid>
       <description>&lt;h1 id=&#34;perturbation-inactivation-based-adversarial-defense-for-face-recognition&#34;&gt;Perturbation Inactivation Based Adversarial Defense for Face Recognition&lt;/h1&gt;&#xA;&lt;p&gt;作者信息：&lt;/p&gt;&#xA;&lt;p&gt;任民（北京师范大学），朱宇豪（中国铁道科学研究院），王云龙（中科院自动化所），孙哲南（中科院自动化所）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;/p&gt;&#xA;&lt;p&gt;IEEE Transactions on Information Forensics and Security (IEEE TIFS)&lt;/p&gt;&#xA;&lt;p&gt;论文DOI:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9845464/&#34;&gt;https://ieeexplore.ieee.org/document/9845464/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;代码链接：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/RenMin1991/Perturbation-Inactivate&#34;&gt;https://github.com/RenMin1991/Perturbation-Inactivate&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/26fnbGYmKYWX8Lzc_9Fygg&#34;&gt;中国图象图形学学会CSIG：【速览】IEEE TIFS 2022 | 基于扰动灭活的人脸对抗防御&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog7_1.png&#34; alt=&#34;blog7_1&#34; title=&#34;基于扰动灭活的人脸对抗防御示意图&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog7_2.png&#34; alt=&#34;blog7_2&#34; title=&#34;由神经网络自适应地估计每个样本的局部子空间&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>科技论文写作之PASS模型</title>
-      <link>https://example.com/blog/blog8/</link>
+      <link>http://localhost:1313/blog/blog8/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog8/</guid>
+      <guid>http://localhost:1313/blog/blog8/</guid>
       <description>&lt;h1 id=&#34;科技论文写作之pass模型&#34;&gt;科技论文写作之PASS模型&lt;/h1&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;© 2021 Yunlong Wang (王云龙). All rights reserved.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IEEE TIFS 2022 | 基于关联测度的虹膜识别</title>
-      <link>https://example.com/blog/blog6/</link>
+      <link>http://localhost:1313/blog/blog6/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog6/</guid>
+      <guid>http://localhost:1313/blog/blog6/</guid>
       <description>&lt;h1 id=&#34;contextual-measures-for-iris-recognition&#34;&gt;Contextual measures for iris recognition&lt;/h1&gt;&#xA;&lt;p&gt;作者信息：&lt;/p&gt;&#xA;&lt;p&gt;卫建泽（中科院微电子所），王云龙（中科院自动化所），黄怀波（中科院自动化所），赫然（中科院自动化所），孙哲南（中科院自动化所），高兴宇（中科院微电子所）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;/p&gt;&#xA;&lt;p&gt;IEEE Transactions on Information Forensics and Security (IEEE TIFS)&lt;/p&gt;&#xA;&lt;p&gt;论文DOI:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9947055&#34;&gt;https://ieeexplore.ieee.org/document/9947055&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;代码链接：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/reborn20200813/Contextual-Measures&#34;&gt;https://github.com/reborn20200813/Contextual-Measures&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/kQcSwRfLD_GujhYNdIVSOA&#34;&gt;中国图象图形学学会CSIG：【速览】IEEE TIFS 2022 | 基于关联测度的虹膜识别&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog6_1.png&#34; alt=&#34;blog6_1&#34; title=&#34;定序测度OM和关联测度CM对比&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog6_2.png&#34; alt=&#34;blog6_2&#34; title=&#34;算法整体框架，蓝色背景区域为CM模型，橙色背景区域为扰动瓶颈部分&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog6_3.png&#34; alt=&#34;blog6_3&#34; title=&#34;扰动瓶颈工作示意图&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog6_4.png&#34; alt=&#34;blog6_4&#34; title=&#34;算法在不同数据集上的DET曲线对比&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>IEEE TIFS 2022 | 基于不确定因素感知的鲁棒虹膜识别</title>
-      <link>https://example.com/blog/blog5/</link>
+      <link>http://localhost:1313/blog/blog5/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog5/</guid>
+      <guid>http://localhost:1313/blog/blog5/</guid>
       <description>&lt;h1 id=&#34;towards-more-discriminative-and-robust-iris-recognition-by-learning-uncertainty-factors&#34;&gt;Towards more discriminative and robust iris recognition by learning uncertainty factors&lt;/h1&gt;&#xA;&lt;p&gt;作者信息：&lt;/p&gt;&#xA;&lt;p&gt;卫建泽（中国科学院大学，中科院自动化所），黄怀波（中科院自动化所），王云龙（中科院自动化所），赫然（中科院自动化所），孙哲南（中科院自动化所）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;/p&gt;&#xA;&lt;p&gt;IEEE Transactions on Information Forensics and Security (IEEE TIFS)&lt;/p&gt;&#xA;&lt;p&gt;论文DOI:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9722888/&#34;&gt;https://ieeexplore.ieee.org/abstract/document/9722888/&lt;/a&gt; (10.1109/TIFS.2022.3154240)&lt;/p&gt;&#xA;&lt;p&gt;代码链接：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/reborn20200813/uncertainty&#34;&gt;https://github.com/reborn20200813/uncertainty&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/IgH2-dDIFkKLwnVnXjimEQ&#34;&gt;人工智能前沿讲习公众号：【源头活水】IEEE TIFS 2022 | 基于不确定因素感知的鲁棒虹膜识别&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog5_1.png&#34; alt=&#34;blog5_1&#34; title=&#34;title page&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog5_2.png&#34; alt=&#34;blog5_2&#34; title=&#34;illustration&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog5_3.png&#34; alt=&#34;blog5_3&#34; title=&#34;framework&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ICML 2022 | 共识表征提取和多样性传播的解构联邦学习框架</title>
-      <link>https://example.com/blog/blog4/</link>
+      <link>http://localhost:1313/blog/blog4/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog4/</guid>
+      <guid>http://localhost:1313/blog/blog4/</guid>
       <description>&lt;h1 id=&#34;disentangled-federated-learning-for-tackling-attributes-skew-via-invariant-aggregation-and-diversity-transferring&#34;&gt;Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring&lt;/h1&gt;&#xA;&lt;p&gt;作者信息：&lt;/p&gt;&#xA;&lt;p&gt;骆正权（中国科学技术大学，中科院自动化所），王云龙（中科院自动化所），&lt;a href=&#34;http://vim.ustc.edu.cn/&#34;&gt;王子磊&lt;/a&gt;（中国科学技术大学），孙哲南（中科院自动化所），谭铁牛（中科院自动化所）&lt;/p&gt;&#xA;&lt;p&gt;收录会议：&lt;/p&gt;&#xA;&lt;p&gt;39th International Conference on Machine Learning（ICML2022, to appear）&lt;/p&gt;&#xA;&lt;p&gt;文章概要：&lt;/p&gt;&#xA;&lt;p&gt;本文针对目前制约联邦学习发展的节点数据非独立同分布问题中较为复杂的属性倾斜因素，提出了共识表征提取和多样性传播的解构联邦学习框架（Disentangled Federated Learning，DFL）。&lt;/p&gt;&#xA;&lt;p&gt;会议网址：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://icml.cc/Conferences/2022&#34;&gt;https://icml.cc/Conferences/2022&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/xU_Rvbofvwveekq41SCpZA&#34;&gt;人工智能前沿讲习公众号：【源头活水】ICML 2022 | 共识表征提取和多样性传播的解构联邦学习框架&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog4_1.png&#34; alt=&#34;blog4_1&#34; title=&#34;title page&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog4_2.png&#34; alt=&#34;blog4_2&#34; title=&#34;illustration&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog4_3.png&#34; alt=&#34;blog4_3&#34; title=&#34;framework&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MIR 2022 | 反者道之动, 基于因果推断的可解释对抗防御</title>
-      <link>https://example.com/blog/blog3/</link>
+      <link>http://localhost:1313/blog/blog3/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog3/</guid>
+      <guid>http://localhost:1313/blog/blog3/</guid>
       <description>&lt;h1 id=&#34;towards-interpretable-defense-against-adversarial-attacks-via-causal-inference&#34;&gt;Towards Interpretable Defense against Adversarial Attacks via Causal Inference&lt;/h1&gt;&#xA;&lt;p&gt;论文题目：基于因果推断的可解释对抗防御&lt;/p&gt;&#xA;&lt;p&gt;论文作者：任民（中国科学院大学，中科院自动化所），王云龙（中科院自动化所），&lt;a href=&#34;https://teacher.bupt.edu.cn/zhaofenghe/zh_CN/jsxx/206597/jsxx/jsxx.htm&#34;&gt;何召锋&lt;/a&gt;（北京邮电大学）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;a href=&#34;https://www.mi-research.net/&#34;&gt;Machine Intelligence Research (MIR)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;论文DOI：&lt;a href=&#34;https://link.springer.com/article/10.1007/s11633-022-1330-7&#34;&gt;10.1007/s11633-022-1330-7&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/hQuweKF2Ew2qscuqvOZQjw&#34;&gt;人工智能前沿讲习公众号：【源头活水】MIR 2022 | 反者道之动, 基于因果推断的可解释对抗防御&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog3_1.png&#34; alt=&#34;blog3_1&#34; title=&#34;title page&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog3_2.png&#34; alt=&#34;blog3_2&#34; title=&#34;illustration&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MIT人工智能实验室：如何做研究？</title>
-      <link>https://example.com/blog/blog2/</link>
+      <link>http://localhost:1313/blog/blog2/</link>
       <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog2/</guid>
+      <guid>http://localhost:1313/blog/blog2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf&#34;&gt;英文原址&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/wfCF625iNJG92THpZ0pfJg&#34;&gt;中文译稿&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog2.jpg&#34; alt=&#34;blog2&#34; title=&#34;Cover&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>This is my new homepage in English.</title>
-      <link>https://example.com/blog/blog1/</link>
+      <link>http://localhost:1313/blog/blog1/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog1/</guid>
+      <guid>http://localhost:1313/blog/blog1/</guid>
       <description>&lt;p&gt;Find more information about me via the following links.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://cripac.ia.ac.cn/CN/column/item165.shtml&#34;&gt;My Chinese homepage&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.cripacsir.cn/&#34;&gt;Our group&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog1.jpg&#34; alt=&#34;blog1&#34; title=&#34;This photo is taken in Dongjiao Wetland Park, Beijing.&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>湖南卫视《新闻大求真》栏目专访|虹膜如何成功识别身份？</title>
-      <link>https://example.com/blog/blog0/</link>
+      <link>http://localhost:1313/blog/blog0/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog0/</guid>
+      <guid>http://localhost:1313/blog/blog0/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/blog0.png&#34; alt=&#34;blog0&#34; title=&#34;王云龙老师接受《新闻大求真》栏目采访&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;2020年8月5日，中科院自动化研究所智能感知与计算研究中心助理研究员王云龙老师接受《新闻大求真》栏目采访，带你探索虹膜识别的奥秘。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.mgtv.com/b/334872/9538853.html&#34;&gt;芒果TV视频链接&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
