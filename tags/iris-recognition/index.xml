@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iris Recognition on Yunlong Wang</title>
-    <link>https://example.com/tags/iris-recognition/</link>
+    <link>http://localhost:1313/tags/iris-recognition/</link>
     <description>Recent content in Iris Recognition on Yunlong Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/tags/iris-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/iris-recognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IEEE TPAMI 2023 | 解决遮挡生物特征识别的多尺度动态图表达框架</title>
-      <link>https://example.com/blog/blog10/</link>
+      <link>http://localhost:1313/blog/blog10/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog10/</guid>
+      <guid>http://localhost:1313/blog/blog10/</guid>
       <description>&lt;h1 id=&#34;multiscale-dynamic-graph-representation-for-biometric-recognition-with-occlusions&#34;&gt;Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions&lt;/h1&gt;&#xA;&lt;p&gt;作者信息：&lt;/p&gt;&#xA;&lt;p&gt;任民（北京师范大学），王云龙（中国科学院自动化研究所），朱宇豪（中国铁道科学研究院），张堃博（中国科学院自动化研究所），孙哲南（中国科学院自动化研究所）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;/p&gt;&#xA;&lt;p&gt;IEEE Transactions on Pattern Analysis and Machine Intelligence (&lt;strong&gt;IEEE TPAMI&lt;/strong&gt;)&lt;/p&gt;&#xA;&lt;p&gt;论文DOI:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10193782&#34;&gt;https://ieeexplore.ieee.org/document/10193782&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;代码链接：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/RenMin1991/Dyamic-Graph-Representation&#34;&gt;https://github.com/RenMin1991/Dyamic-Graph-Representation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/4e3MFY6DKe5pJ1JsGV7Zwg&#34;&gt;中国图象图形学学会CSIG：【速览】IEEE TPAMI 2023 | 解决遮挡生物特征识别的多尺度动态图表达框架&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog10_1.png&#34; alt=&#34;blog10_1&#34; title=&#34;非受控场景下遮挡生物特征识别问题&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog10_2.png&#34; alt=&#34;blog10_2&#34; title=&#34;动态图表达&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog10_3.png&#34; alt=&#34;blog10_3&#34; title=&#34;多尺度动态图表达框架&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog10_4.png&#34; alt=&#34;blog10_4&#34; title=&#34;不同尺度Feature graph的有效感受野&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog10_5.png&#34; alt=&#34;blog10_5&#34; title=&#34;动态图表达框架下的人脸匹配结果&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>

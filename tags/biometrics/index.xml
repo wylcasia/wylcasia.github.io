@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biometrics on Yunlong Wang</title>
-    <link>https://example.com/tags/biometrics/</link>
+    <link>http://localhost:1313/tags/biometrics/</link>
     <description>Recent content in Biometrics on Yunlong Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/tags/biometrics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/biometrics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IJCB 2023 Best Student Paper Award</title>
-      <link>https://example.com/blog/blog9/</link>
+      <link>http://localhost:1313/blog/blog9/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog9/</guid>
+      <guid>http://localhost:1313/blog/blog9/</guid>
       <description>&lt;h1 id=&#34;our-paper-won-ijcb-2023-best-student-paper-award&#34;&gt;Our paper won IJCB 2023 Best Student Paper Award&lt;/h1&gt;&#xA;&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ijcb2023.ieee-biometrics.org/award-winners/&#34;&gt;&lt;strong&gt;Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;&#xA;&lt;p&gt;Li, Haiqing; Wang, caiyong; Zhao, Guangzhe; He, Zhaofeng; Wang, Yunlong; Sun, Zhenan&lt;/p&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Sclera segmentation is a crucial step in sclera recognition, which has been greatly advanced by Convolutional Neural Networks (CNNs). However, when dealing with non-ideal eye images, many existing CNN-based approaches are still prone to failure. One major reason is that due to the limited range of receptive fields, CNNs are difficult to effectively model global semantic relevance and thus robustly resist noise interference. To solve this problem, this paper proposes a novel two-stream hybrid model, named Sclera-TransFuse, to integrate classical ResNet-34 and recently emerging Swin Transformer encoders. Specially, the self-attentive Swin Transformer has shown a strong ability in capturing long-range spatial dependencies and has a hierarchical structure similar to CNNs. The dual encoders firstly extract coarse- and fine-grained feature representations at hierarchical stages, separately. Then a novel Cross-Domain Fusion (CDF) module based on information interaction and self-attention mechanism is introduced to efficiently fuse the multi-scale features extracted from dual encoders. Finally, the fused features are progressively upsampled and aggregated to predict the sclera masks in the decoder meanwhile deep supervision strategies are employed to learn intermediate feature representations better and faster. Experimental results show that Sclera-TransFuse achieves state-of-the-art performance on various sclera segmentation benchmarks. Additionally, a UBIRIS.v2 subset of 683 eye images with manually labeled sclera masks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IEEE TIFS 2022 | 基于扰动灭活的人脸对抗防御</title>
-      <link>https://example.com/blog/blog7/</link>
+      <link>http://localhost:1313/blog/blog7/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog7/</guid>
+      <guid>http://localhost:1313/blog/blog7/</guid>
       <description>&lt;h1 id=&#34;perturbation-inactivation-based-adversarial-defense-for-face-recognition&#34;&gt;Perturbation Inactivation Based Adversarial Defense for Face Recognition&lt;/h1&gt;&#xA;&lt;p&gt;作者信息：&lt;/p&gt;&#xA;&lt;p&gt;任民（北京师范大学），朱宇豪（中国铁道科学研究院），王云龙（中科院自动化所），孙哲南（中科院自动化所）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;/p&gt;&#xA;&lt;p&gt;IEEE Transactions on Information Forensics and Security (IEEE TIFS)&lt;/p&gt;&#xA;&lt;p&gt;论文DOI:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9845464/&#34;&gt;https://ieeexplore.ieee.org/document/9845464/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;代码链接：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/RenMin1991/Perturbation-Inactivate&#34;&gt;https://github.com/RenMin1991/Perturbation-Inactivate&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/26fnbGYmKYWX8Lzc_9Fygg&#34;&gt;中国图象图形学学会CSIG：【速览】IEEE TIFS 2022 | 基于扰动灭活的人脸对抗防御&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog7_1.png&#34; alt=&#34;blog7_1&#34; title=&#34;基于扰动灭活的人脸对抗防御示意图&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog7_2.png&#34; alt=&#34;blog7_2&#34; title=&#34;由神经网络自适应地估计每个样本的局部子空间&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>IEEE TIFS 2022 | 基于关联测度的虹膜识别</title>
-      <link>https://example.com/blog/blog6/</link>
+      <link>http://localhost:1313/blog/blog6/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog6/</guid>
+      <guid>http://localhost:1313/blog/blog6/</guid>
       <description>&lt;h1 id=&#34;contextual-measures-for-iris-recognition&#34;&gt;Contextual measures for iris recognition&lt;/h1&gt;&#xA;&lt;p&gt;作者信息：&lt;/p&gt;&#xA;&lt;p&gt;卫建泽（中科院微电子所），王云龙（中科院自动化所），黄怀波（中科院自动化所），赫然（中科院自动化所），孙哲南（中科院自动化所），高兴宇（中科院微电子所）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;/p&gt;&#xA;&lt;p&gt;IEEE Transactions on Information Forensics and Security (IEEE TIFS)&lt;/p&gt;&#xA;&lt;p&gt;论文DOI:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9947055&#34;&gt;https://ieeexplore.ieee.org/document/9947055&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;代码链接：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/reborn20200813/Contextual-Measures&#34;&gt;https://github.com/reborn20200813/Contextual-Measures&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/kQcSwRfLD_GujhYNdIVSOA&#34;&gt;中国图象图形学学会CSIG：【速览】IEEE TIFS 2022 | 基于关联测度的虹膜识别&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog6_1.png&#34; alt=&#34;blog6_1&#34; title=&#34;定序测度OM和关联测度CM对比&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog6_2.png&#34; alt=&#34;blog6_2&#34; title=&#34;算法整体框架，蓝色背景区域为CM模型，橙色背景区域为扰动瓶颈部分&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog6_3.png&#34; alt=&#34;blog6_3&#34; title=&#34;扰动瓶颈工作示意图&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog6_4.png&#34; alt=&#34;blog6_4&#34; title=&#34;算法在不同数据集上的DET曲线对比&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>IEEE TIFS 2022 | 基于不确定因素感知的鲁棒虹膜识别</title>
-      <link>https://example.com/blog/blog5/</link>
+      <link>http://localhost:1313/blog/blog5/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog5/</guid>
+      <guid>http://localhost:1313/blog/blog5/</guid>
       <description>&lt;h1 id=&#34;towards-more-discriminative-and-robust-iris-recognition-by-learning-uncertainty-factors&#34;&gt;Towards more discriminative and robust iris recognition by learning uncertainty factors&lt;/h1&gt;&#xA;&lt;p&gt;作者信息：&lt;/p&gt;&#xA;&lt;p&gt;卫建泽（中国科学院大学，中科院自动化所），黄怀波（中科院自动化所），王云龙（中科院自动化所），赫然（中科院自动化所），孙哲南（中科院自动化所）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;/p&gt;&#xA;&lt;p&gt;IEEE Transactions on Information Forensics and Security (IEEE TIFS)&lt;/p&gt;&#xA;&lt;p&gt;论文DOI:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9722888/&#34;&gt;https://ieeexplore.ieee.org/abstract/document/9722888/&lt;/a&gt; (10.1109/TIFS.2022.3154240)&lt;/p&gt;&#xA;&lt;p&gt;代码链接：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/reborn20200813/uncertainty&#34;&gt;https://github.com/reborn20200813/uncertainty&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/IgH2-dDIFkKLwnVnXjimEQ&#34;&gt;人工智能前沿讲习公众号：【源头活水】IEEE TIFS 2022 | 基于不确定因素感知的鲁棒虹膜识别&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog5_1.png&#34; alt=&#34;blog5_1&#34; title=&#34;title page&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog5_2.png&#34; alt=&#34;blog5_2&#34; title=&#34;illustration&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog5_3.png&#34; alt=&#34;blog5_3&#34; title=&#34;framework&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MIR 2022 | 反者道之动, 基于因果推断的可解释对抗防御</title>
-      <link>https://example.com/blog/blog3/</link>
+      <link>http://localhost:1313/blog/blog3/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog3/</guid>
+      <guid>http://localhost:1313/blog/blog3/</guid>
       <description>&lt;h1 id=&#34;towards-interpretable-defense-against-adversarial-attacks-via-causal-inference&#34;&gt;Towards Interpretable Defense against Adversarial Attacks via Causal Inference&lt;/h1&gt;&#xA;&lt;p&gt;论文题目：基于因果推断的可解释对抗防御&lt;/p&gt;&#xA;&lt;p&gt;论文作者：任民（中国科学院大学，中科院自动化所），王云龙（中科院自动化所），&lt;a href=&#34;https://teacher.bupt.edu.cn/zhaofenghe/zh_CN/jsxx/206597/jsxx/jsxx.htm&#34;&gt;何召锋&lt;/a&gt;（北京邮电大学）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;a href=&#34;https://www.mi-research.net/&#34;&gt;Machine Intelligence Research (MIR)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;论文DOI：&lt;a href=&#34;https://link.springer.com/article/10.1007/s11633-022-1330-7&#34;&gt;10.1007/s11633-022-1330-7&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/hQuweKF2Ew2qscuqvOZQjw&#34;&gt;人工智能前沿讲习公众号：【源头活水】MIR 2022 | 反者道之动, 基于因果推断的可解释对抗防御&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog3_1.png&#34; alt=&#34;blog3_1&#34; title=&#34;title page&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog3_2.png&#34; alt=&#34;blog3_2&#34; title=&#34;illustration&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>湖南卫视《新闻大求真》栏目专访|虹膜如何成功识别身份？</title>
-      <link>https://example.com/blog/blog0/</link>
+      <link>http://localhost:1313/blog/blog0/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog0/</guid>
+      <guid>http://localhost:1313/blog/blog0/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/blog0.png&#34; alt=&#34;blog0&#34; title=&#34;王云龙老师接受《新闻大求真》栏目采访&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;2020年8月5日，中科院自动化研究所智能感知与计算研究中心助理研究员王云龙老师接受《新闻大求真》栏目采访，带你探索虹膜识别的奥秘。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.mgtv.com/b/334872/9538853.html&#34;&gt;芒果TV视频链接&lt;/a&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>

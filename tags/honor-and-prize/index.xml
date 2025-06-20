@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Honor and Prize on Yunlong Wang</title>
-    <link>https://example.com/tags/honor-and-prize/</link>
+    <link>http://localhost:1313/tags/honor-and-prize/</link>
     <description>Recent content in Honor and Prize on Yunlong Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/tags/honor-and-prize/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/honor-and-prize/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>本人喜获2023年中国产学研合作创新与促进奖——产学研合作创新成果奖二等奖</title>
-      <link>https://example.com/blog/blog11/</link>
+      <link>http://localhost:1313/blog/blog11/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/blog11/</guid>
+      <guid>http://localhost:1313/blog/blog11/</guid>
       <description>&lt;h2 id=&#34;获奖项目名称多模态生物特征采集与分析技术&#34;&gt;获奖项目名称：多模态生物特征采集与分析技术&lt;/h2&gt;&#xA;&lt;p&gt;完成单位：北京邮电大学、&lt;strong&gt;中国科学院自动化研究所&lt;/strong&gt;、北京声智科技有限公司、北京中科虹霸科技有限公司、北京嘀嘀无限科技发展有限公司&lt;/p&gt;&#xA;&lt;p&gt;主要完成人：何召锋、李佩佩、项刘宇、&lt;strong&gt;王云龙&lt;/strong&gt;、邱显超、陈孝良、李琦、裴仁旺、常乐、王兴华&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog11_1.jpg&#34; alt=&#34;blog11_1&#34; title=&#34;获奖通知&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
