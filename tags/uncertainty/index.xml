@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncertainty on Yunlong Wang</title>
-    <link>http://localhost:1313/tags/uncertainty/</link>
+    <link>https://example.com/tags/uncertainty/</link>
     <description>Recent content in Uncertainty on Yunlong Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/uncertainty/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/tags/uncertainty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IEEE TIFS 2022 | 基于不确定因素感知的鲁棒虹膜识别</title>
-      <link>http://localhost:1313/blog/blog5/</link>
+      <link>https://example.com/blog/blog5/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/blog5/</guid>
+      <guid>https://example.com/blog/blog5/</guid>
       <description>&lt;h1 id=&#34;towards-more-discriminative-and-robust-iris-recognition-by-learning-uncertainty-factors&#34;&gt;Towards more discriminative and robust iris recognition by learning uncertainty factors&lt;/h1&gt;&#xA;&lt;p&gt;作者信息：&lt;/p&gt;&#xA;&lt;p&gt;卫建泽（中国科学院大学，中科院自动化所），黄怀波（中科院自动化所），王云龙（中科院自动化所），赫然（中科院自动化所），孙哲南（中科院自动化所）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;/p&gt;&#xA;&lt;p&gt;IEEE Transactions on Information Forensics and Security (IEEE TIFS)&lt;/p&gt;&#xA;&lt;p&gt;论文DOI:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9722888/&#34;&gt;https://ieeexplore.ieee.org/abstract/document/9722888/&lt;/a&gt; (10.1109/TIFS.2022.3154240)&lt;/p&gt;&#xA;&lt;p&gt;代码链接：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/reborn20200813/uncertainty&#34;&gt;https://github.com/reborn20200813/uncertainty&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/IgH2-dDIFkKLwnVnXjimEQ&#34;&gt;人工智能前沿讲习公众号：【源头活水】IEEE TIFS 2022 | 基于不确定因素感知的鲁棒虹膜识别&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog5_1.png&#34; alt=&#34;blog5_1&#34; title=&#34;title page&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog5_2.png&#34; alt=&#34;blog5_2&#34; title=&#34;illustration&#34;&gt;&#xA;&lt;img src=&#34;../../images/blog5_3.png&#34; alt=&#34;blog5_3&#34; title=&#34;framework&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
