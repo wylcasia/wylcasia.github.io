@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CausalInference on Yunlong Wang</title>
-    <link>http://localhost:1313/tags/causalinference/</link>
-    <description>Recent content in CausalInference on Yunlong Wang</description>
+    <title>Causal on Yunlong Wang</title>
+    <link>http://localhost:1313/tags/causal/</link>
+    <description>Recent content in Causal on Yunlong Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/causalinference/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/causal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIR 2022 | 反者道之动, 基于因果推断的可解释对抗防御</title>
       <link>http://localhost:1313/blog/blog3/</link>

@@ -2,108 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yunlong Wang</title>
-    <link>https://example.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Yunlong Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Award</title>
-      <link>https://example.com/tags/award/</link>
+      <link>http://localhost:1313/tags/award/</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/award/</guid>
+      <guid>http://localhost:1313/tags/award/</guid>
       <description></description>
     </item>
     <item>
       <title>Standard</title>
-      <link>https://example.com/tags/standard/</link>
+      <link>http://localhost:1313/tags/standard/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/standard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Biometric Recognition</title>
-      <link>https://example.com/tags/biometric-recognition/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/biometric-recognition/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Honor and Prize</title>
-      <link>https://example.com/tags/honor-and-prize/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/honor-and-prize/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Iris Recognition</title>
-      <link>https://example.com/tags/iris-recognition/</link>
-      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/iris-recognition/</guid>
+      <guid>http://localhost:1313/tags/standard/</guid>
       <description></description>
     </item>
     <item>
       <title>Biometrics</title>
-      <link>https://example.com/tags/biometrics/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/biometrics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sclera</title>
-      <link>https://example.com/tags/sclera/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/sclera/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Academics</title>
-      <link>https://example.com/tags/academics/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/academics/</guid>
+      <link>http://localhost:1313/tags/biometrics/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/biometrics/</guid>
       <description></description>
     </item>
     <item>
       <title>Iris</title>
-      <link>https://example.com/tags/iris/</link>
+      <link>http://localhost:1313/tags/iris/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/iris/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sclera</title>
+      <link>http://localhost:1313/tags/sclera/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sclera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Academics</title>
+      <link>http://localhost:1313/tags/academics/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/iris/</guid>
+      <guid>http://localhost:1313/tags/academics/</guid>
       <description></description>
     </item>
     <item>
-      <title>Uncertainty</title>
-      <link>https://example.com/tags/uncertainty/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/uncertainty/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FederatedLearning</title>
-      <link>https://example.com/tags/federatedlearning/</link>
+      <title>FL</title>
+      <link>http://localhost:1313/tags/fl/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/federatedlearning/</guid>
+      <guid>http://localhost:1313/tags/fl/</guid>
       <description></description>
     </item>
     <item>
-      <title>AdversarialAttacks</title>
-      <link>https://example.com/tags/adversarialattacks/</link>
+      <title>Adversarial</title>
+      <link>http://localhost:1313/tags/adversarial/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/adversarialattacks/</guid>
+      <guid>http://localhost:1313/tags/adversarial/</guid>
       <description></description>
     </item>
     <item>
-      <title>CausalInference</title>
-      <link>https://example.com/tags/causalinference/</link>
+      <title>Causal</title>
+      <link>http://localhost:1313/tags/causal/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/causalinference/</guid>
+      <guid>http://localhost:1313/tags/causal/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage</title>
-      <link>https://example.com/tags/homepage/</link>
+      <link>http://localhost:1313/tags/homepage/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/homepage/</guid>
+      <guid>http://localhost:1313/tags/homepage/</guid>
       <description></description>
     </item>
   </channel>
