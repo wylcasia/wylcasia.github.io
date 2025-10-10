@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2025-09-28T10:42:47+03:30</lastmod>
+    <loc>https://example.com/tags/award/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/blog/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/blog15/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/standard/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/blog/blog12/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/award/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/blog/blog14/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
