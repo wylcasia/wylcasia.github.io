@@ -2,81 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yunlong Wang</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.com/tags/</link>
     <description>Recent content in Tags on Yunlong Wang</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Award</title>
-      <link>http://localhost:1313/tags/award/</link>
+      <link>https://example.com/tags/award/</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/award/</guid>
+      
+      <guid>https://example.com/tags/award/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Standard</title>
-      <link>http://localhost:1313/tags/standard/</link>
+      <link>https://example.com/tags/standard/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/standard/</guid>
+      
+      <guid>https://example.com/tags/standard/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Biometrics</title>
-      <link>http://localhost:1313/tags/biometrics/</link>
+      <link>https://example.com/tags/biometrics/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/biometrics/</guid>
+      
+      <guid>https://example.com/tags/biometrics/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Iris</title>
-      <link>http://localhost:1313/tags/iris/</link>
+      <link>https://example.com/tags/iris/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/iris/</guid>
+      
+      <guid>https://example.com/tags/iris/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Sclera</title>
-      <link>http://localhost:1313/tags/sclera/</link>
+      <link>https://example.com/tags/sclera/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sclera/</guid>
+      
+      <guid>https://example.com/tags/sclera/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Academics</title>
-      <link>http://localhost:1313/tags/academics/</link>
+      <link>https://example.com/tags/academics/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/academics/</guid>
+      
+      <guid>https://example.com/tags/academics/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>FL</title>
-      <link>http://localhost:1313/tags/fl/</link>
+      <link>https://example.com/tags/fl/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fl/</guid>
+      
+      <guid>https://example.com/tags/fl/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Adversarial</title>
-      <link>http://localhost:1313/tags/adversarial/</link>
+      <link>https://example.com/tags/adversarial/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/adversarial/</guid>
+      
+      <guid>https://example.com/tags/adversarial/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Causal</title>
-      <link>http://localhost:1313/tags/causal/</link>
+      <link>https://example.com/tags/causal/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/causal/</guid>
+      
+      <guid>https://example.com/tags/causal/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Homepage</title>
-      <link>http://localhost:1313/tags/homepage/</link>
+      <link>https://example.com/tags/homepage/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/homepage/</guid>
+      
+      <guid>https://example.com/tags/homepage/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>

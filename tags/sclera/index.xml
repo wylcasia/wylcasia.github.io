@@ -2,18 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sclera on Yunlong Wang</title>
-    <link>http://localhost:1313/tags/sclera/</link>
+    <link>https://example.com/tags/sclera/</link>
     <description>Recent content in Sclera on Yunlong Wang</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sclera/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/sclera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IJCB 2023 Best Student Paper Award</title>
-      <link>http://localhost:1313/blog/blog9/</link>
+      <link>https://example.com/blog/blog9/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/blog9/</guid>
-      <description>&lt;h1 id=&#34;our-paper-won-ijcb-2023-best-student-paper-award&#34;&gt;Our paper won IJCB 2023 Best Student Paper Award&lt;/h1&gt;&#xA;&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ijcb2023.ieee-biometrics.org/award-winners/&#34;&gt;&lt;strong&gt;Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;&#xA;&lt;p&gt;Li, Haiqing; Wang, caiyong; Zhao, Guangzhe; He, Zhaofeng; Wang, Yunlong; Sun, Zhenan&lt;/p&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Sclera segmentation is a crucial step in sclera recognition, which has been greatly advanced by Convolutional Neural Networks (CNNs). However, when dealing with non-ideal eye images, many existing CNN-based approaches are still prone to failure. One major reason is that due to the limited range of receptive fields, CNNs are difficult to effectively model global semantic relevance and thus robustly resist noise interference. To solve this problem, this paper proposes a novel two-stream hybrid model, named Sclera-TransFuse, to integrate classical ResNet-34 and recently emerging Swin Transformer encoders. Specially, the self-attentive Swin Transformer has shown a strong ability in capturing long-range spatial dependencies and has a hierarchical structure similar to CNNs. The dual encoders firstly extract coarse- and fine-grained feature representations at hierarchical stages, separately. Then a novel Cross-Domain Fusion (CDF) module based on information interaction and self-attention mechanism is introduced to efficiently fuse the multi-scale features extracted from dual encoders. Finally, the fused features are progressively upsampled and aggregated to predict the sclera masks in the decoder meanwhile deep supervision strategies are employed to learn intermediate feature representations better and faster. Experimental results show that Sclera-TransFuse achieves state-of-the-art performance on various sclera segmentation benchmarks. Additionally, a UBIRIS.v2 subset of 683 eye images with manually labeled sclera masks.&lt;/p&gt;</description>
+      
+      <guid>https://example.com/blog/blog9/</guid>
+      <description>Our paper won IJCB 2023 Best Student Paper Award Title Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation
+Authors Li, Haiqing; Wang, caiyong; Zhao, Guangzhe; He, Zhaofeng; Wang, Yunlong; Sun, Zhenan
+Abstract Sclera segmentation is a crucial step in sclera recognition, which has been greatly advanced by Convolutional Neural Networks (CNNs). However, when dealing with non-ideal eye images, many existing CNN-based approaches are still prone to failure. One major reason is that due to the limited range of receptive fields, CNNs are difficult to effectively model global semantic relevance and thus robustly resist noise interference.</description>
     </item>
+    
   </channel>
 </rss>

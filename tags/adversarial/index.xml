@@ -2,18 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adversarial on Yunlong Wang</title>
-    <link>http://localhost:1313/tags/adversarial/</link>
+    <link>https://example.com/tags/adversarial/</link>
     <description>Recent content in Adversarial on Yunlong Wang</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/adversarial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/adversarial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIR 2022 | 反者道之动, 基于因果推断的可解释对抗防御</title>
-      <link>http://localhost:1313/blog/blog3/</link>
+      <link>https://example.com/blog/blog3/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/blog3/</guid>
-      <description>&lt;h1 id=&#34;towards-interpretable-defense-against-adversarial-attacks-via-causal-inference&#34;&gt;Towards Interpretable Defense against Adversarial Attacks via Causal Inference&lt;/h1&gt;&#xA;&lt;p&gt;论文题目：基于因果推断的可解释对抗防御&lt;/p&gt;&#xA;&lt;p&gt;论文作者：任民（中国科学院大学，中科院自动化所），王云龙（中科院自动化所），&lt;a href=&#34;https://teacher.bupt.edu.cn/zhaofenghe/zh_CN/jsxx/206597/jsxx/jsxx.htm&#34;&gt;何召锋&lt;/a&gt;（北京邮电大学）&lt;/p&gt;&#xA;&lt;p&gt;收录期刊：&lt;a href=&#34;https://www.mi-research.net/&#34;&gt;Machine Intelligence Research (MIR)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;论文DOI：&lt;a href=&#34;https://link.springer.com/article/10.1007/s11633-022-1330-7&#34;&gt;10.1007/s11633-022-1330-7&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/hQuweKF2Ew2qscuqvOZQjw&#34;&gt;人工智能前沿讲习公众号：【源头活水】MIR 2022 | 反者道之动, 基于因果推断的可解释对抗防御&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog3_1.png&#34; alt=&#34;blog3_1&#34; title=&#34;title page&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog3_2.png&#34; alt=&#34;blog3_2&#34; title=&#34;illustration&#34;&gt;&lt;/p&gt;</description>
+      
+      <guid>https://example.com/blog/blog3/</guid>
+      <description>Towards Interpretable Defense against Adversarial Attacks via Causal Inference 论文题目：基于因果推断的可解释对抗防御
+论文作者：任民（中国科学院大学，中科院自动化所），王云龙（中科院自动化所），何召锋（北京邮电大学）
+收录期刊：Machine Intelligence Research (MIR)
+论文DOI：10.1007/s11633-022-1330-7
+人工智能前沿讲习公众号：【源头活水】MIR 2022 | 反者道之动, 基于因果推断的可解释对抗防御</description>
     </item>
+    
   </channel>
 </rss>

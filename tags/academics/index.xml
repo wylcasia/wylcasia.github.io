@@ -2,25 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academics on Yunlong Wang</title>
-    <link>http://localhost:1313/tags/academics/</link>
+    <link>https://example.com/tags/academics/</link>
     <description>Recent content in Academics on Yunlong Wang</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/academics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/academics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>科技论文写作之PASS模型</title>
-      <link>http://localhost:1313/blog/blog8/</link>
+      <link>https://example.com/blog/blog8/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/blog8/</guid>
-      <description>&lt;h1 id=&#34;科技论文写作之pass模型&#34;&gt;科技论文写作之PASS模型&lt;/h1&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;© 2021 Yunlong Wang (王云龙). All rights reserved.&lt;/p&gt;</description>
+      
+      <guid>https://example.com/blog/blog8/</guid>
+      <description>科技论文写作之PASS模型 © 2021 Yunlong Wang (王云龙). All rights reserved.</description>
     </item>
+    
     <item>
       <title>MIT人工智能实验室：如何做研究？</title>
-      <link>http://localhost:1313/blog/blog2/</link>
+      <link>https://example.com/blog/blog2/</link>
       <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/blog2/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf&#34;&gt;英文原址&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/wfCF625iNJG92THpZ0pfJg&#34;&gt;中文译稿&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/blog2.jpg&#34; alt=&#34;blog2&#34; title=&#34;Cover&#34;&gt;&lt;/p&gt;</description>
+      
+      <guid>https://example.com/blog/blog2/</guid>
+      <description>英文原址
+中文译稿</description>
     </item>
+    
   </channel>
 </rss>
