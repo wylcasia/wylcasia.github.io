@@ -5,7 +5,6 @@
     <link>https://example.com/news/</link>
     <description>Recent content in news on Yunlong Wang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2025 10:42:47 +0330</lastBuildDate><atom:link href="https://example.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://example.com/news/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
