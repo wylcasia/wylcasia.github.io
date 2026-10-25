@@ -1,0 +1,13 @@
+@article{Wu2026,
+  author  = {Wu, Yanting and Liu, Ajian and Xia, Siyu and Wang, Yunlong and Song, Xinyang and Gui, Jie and Sun, Zhenan and Li, Qi},
+  title   = {{DOME}: A Decoupled Offline-Online Memory Externalization Framework for Interpretable Domain-Generalized Face Anti-spoofing},
+  journal = {International Journal of Computer Vision},
+  year    = {2026},
+  volume  = {134},
+  number  = {10},
+  pages   = {459},
+  issn    = {1573-1405},
+  doi     = {10.1007/s11263-026-03010-y},
+  url     = {https://doi.org/10.1007/s11263-026-03010-y},
+  abstract = {Interpretable Face Anti-Spoofing (FAS) for Domain Generalization (DG) is becoming increasingly popular. However, despite the promise of Multimodal Large Language Models (MLLMs) in providing interpretability, current approaches suffer from a fundamental limitation: interpretable knowledge is implicitly coupled within model parameters. Consequently, the explanation process often degenerates into a post-hoc rationalization of prediction results rather than serving as the reasoning basis for decision-making. This ``black-box'' coupling not only severs the pathway for correcting visual biases via explicit logic but also necessitates extensive supervision to align interpretation with classification. To address these challenges, we propose the Decoupled Offline-online Memory Externalization (DOME) framework, which employs a vision-language bank to explicitly represent this implicit knowledge, ensuring predictions are derived from pre-retrieved evidence. Specifically, DOME is designed as a structured repository containing textual rules and visual prototypes. Our method operates in two stages: (1) Offline Memory Bank Construction, where we populate the memory by extracting rules and aggregating prototypes via a decision tree on a few training samples; and (2) Online Memory Interaction, where a trainable fusion module retrieves the stored rules from the memory as prior evidence for the MLLM, while enhancing features via the memory's visual prototypes. By externalizing knowledge into the memory, our approach not only transforms explanations from passive outputs into active predictive priors but also liberates knowledge acquisition from massive supervision. Extensive experiments demonstrate that our method achieves competitive performance on multiple DG protocols while providing structured explanations.}
+}
