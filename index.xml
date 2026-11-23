@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yunlong Wang</title>
+    <title>Dr. Yunlong Wang</title>
     <link>https://example.com/</link>
-    <description>Recent content on Yunlong Wang</description>
+    <description>Recent content on Dr. Yunlong Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our work on **Secure and Trustworthy Facial Multimodal Biometric Recognition Technology and its Applications** was awarded **the first prize of Beijing Science and Technology Progress Award 2025**:1st_place_medal::clap:</title>
+      <link>https://example.com/blog/blog17/</link>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/blog17/</guid>
+      <description>我们关于安全可信面部多模态生物特征识别技术及应用的研究工作荣获2025年北京市科技进步奖一等奖。
+相关新闻报道：
+北京市科学技术奖励大会召开，尹力为获奖科学家代表颁奖，要求推动北京（京津冀）国际科技创新中心跃升发展
+234项（人）全名单！2025年度北京市科技奖正式揭晓
+热烈祝贺我实验室“安全可信面部多模态生物特征识别技术及应用”项目荣获2025年度北京市科学技术进步奖一等奖!</description>
+    </item>
+    
     <item>
       <title>Our work on light field imaging technology and applications was awarded the second prize of Tianjin Science and Technology Progress Award 2025</title>
       <link>https://example.com/blog/blog16/</link>
